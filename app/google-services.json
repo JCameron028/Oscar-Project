@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903524384841",
+    "project_id": "oscar-waste-management-project",
+    "storage_bucket": "oscar-waste-management-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903524384841:android:5a94caa5323d0ae4ceff98",
+        "android_client_info": {
+          "package_name": "com.example.oscarwastemanagementproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvvi-gMfrS4ES_kxiUvu5WPx6dVky7EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

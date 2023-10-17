@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Oscar Waste Management Project</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="userName">UserName</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login">Already a user, Login</string>
+    <string name="Register_here">Register Here</string>
+    <string name="logout">Logout</string>
+    <string name="user_details">User details</string>
+    <string name="site_report">Site report</string>
+</resources>
